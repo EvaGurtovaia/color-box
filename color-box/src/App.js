@@ -1,10 +1,10 @@
 import "./App.css";
-import ColorBox from "./ColorBox";
+import ColorBoxContainer from "./ColorBoxContainer";
 
 function App() {
     return (
         <div className="App">
-            <ColorBox />
+            <ColorBoxContainer />
         </div>
     );
 }
